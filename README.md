@@ -1,3 +1,4 @@
+This project is used to get familiar with Git commands
 
 ### Table of Contents
 
